@@ -1,0 +1,17 @@
+# Python
+*.pyc
+__pycache__/
+
+# Environment
+.env
+venv/
+
+# Logs and dumps
+*.log
+core
+core.*
+
+# Builds
+dist/
+node_modules/
+*.zip
