@@ -1,0 +1,2 @@
+flag{kinda_like_orw_but_only_ws}
+
